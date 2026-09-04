@@ -1,2 +1,9 @@
 # Opensource_Practice
-this is the first session of Github open source
+this is the first session of Github open sourceq
+
+## Project Data
+
+- Project: Open Source Practice
+- Status: In progress
+- Focus: Learning GitHub open source workflows
+
